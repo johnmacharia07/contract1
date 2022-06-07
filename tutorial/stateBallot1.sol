@@ -1,4 +1,9 @@
 // import solidity
+/* Style Guide
+1. Four spaces preferred .
+2. Spaces over indentations.
+3. Blocks of code: two blank lines after.
+4. No extra white space. */
 pragma solidity ^0.8.14;
 
 // import
